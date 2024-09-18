@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55df19f696329944699614f1c4a6440e, type: 3}
+  m_Name: Spades
+  m_EditorClassIdentifier: 
+  <data>k__BackingField:
+  - cardTexture: {fileID: 2800000, guid: 4f52e6448fbb5a24ca00be9476ed63fb, type: 3}
+    value: 2
+    rank: 4
+  - cardTexture: {fileID: 2800000, guid: de3de535542763c428e6c9df3a10d7bc, type: 3}
+    value: 3
+    rank: 4
+  - cardTexture: {fileID: 2800000, guid: e9bd30232c34d114c949311fb2fca417, type: 3}
+    value: 4
+    rank: 4
+  - cardTexture: {fileID: 2800000, guid: f8a81558a657fc24dac343af0d9434b8, type: 3}
+    value: 5
+    rank: 4
+  - cardTexture: {fileID: 2800000, guid: 8ee0f48386ae7d246a668c8e3d86fb34, type: 3}
+    value: 6
+    rank: 4
+  - cardTexture: {fileID: 2800000, guid: d10471860750cb14f8965bd0a26e067d, type: 3}
+    value: 7
+    rank: 4
+  - cardTexture: {fileID: 2800000, guid: e95ac5871c30d4545826e2bad960647a, type: 3}
+    value: 8
+    rank: 4
+  - cardTexture: {fileID: 2800000, guid: 830ca0020a65f32468d642d55069ed0d, type: 3}
+    value: 9
+    rank: 4
+  - cardTexture: {fileID: 2800000, guid: 71fc0a1eb35aacb448761dfe336de9cb, type: 3}
+    value: 10
+    rank: 4
+  - cardTexture: {fileID: 2800000, guid: bed1f51dd13e33449996b0e6408bf250, type: 3}
+    value: 11
+    rank: 4
+  - cardTexture: {fileID: 2800000, guid: 3cecc4e4012ed7c4d950e16cfb667487, type: 3}
+    value: 12
+    rank: 4
+  - cardTexture: {fileID: 2800000, guid: b77b5c8cedd6ccf4eae34f6e592d6e81, type: 3}
+    value: 13
+    rank: 4
+  - cardTexture: {fileID: 2800000, guid: 28f34e601cc17064fa611268494063d0, type: 3}
+    value: 14
+    rank: 4
+  <suit>k__BackingField: 3

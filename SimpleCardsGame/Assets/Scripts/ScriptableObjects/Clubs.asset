@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55df19f696329944699614f1c4a6440e, type: 3}
+  m_Name: Clubs
+  m_EditorClassIdentifier: 
+  <data>k__BackingField:
+  - cardTexture: {fileID: 2800000, guid: 1f34a5c4322f7514c9de098a160abce0, type: 3}
+    value: 2
+    rank: 2
+  - cardTexture: {fileID: 2800000, guid: 37aafca8c21f4a54f98a4e6631a36080, type: 3}
+    value: 3
+    rank: 1
+  - cardTexture: {fileID: 2800000, guid: b14e37bf0e3e9bc449cb4685426d5d4f, type: 3}
+    value: 4
+    rank: 1
+  - cardTexture: {fileID: 2800000, guid: a47080258ece06540a9e85627d294548, type: 3}
+    value: 5
+    rank: 1
+  - cardTexture: {fileID: 2800000, guid: 22e0636bdb9c00040a3a0bda1952c6e7, type: 3}
+    value: 6
+    rank: 1
+  - cardTexture: {fileID: 2800000, guid: d3566fbc7ec6e004596c2522a033cfb7, type: 3}
+    value: 7
+    rank: 1
+  - cardTexture: {fileID: 2800000, guid: e6d0740956acbbc4eb6713d3b140b88a, type: 3}
+    value: 8
+    rank: 1
+  - cardTexture: {fileID: 2800000, guid: 4576486656a0fe144864c7384dfc7495, type: 3}
+    value: 9
+    rank: 1
+  - cardTexture: {fileID: 2800000, guid: 4a5c11cdef0c4fb44885ae12c5a1a068, type: 3}
+    value: 10
+    rank: 1
+  - cardTexture: {fileID: 2800000, guid: 2915cb528db01af47871229e91eccdf7, type: 3}
+    value: 11
+    rank: 1
+  - cardTexture: {fileID: 2800000, guid: 76996b6757233f04190f3e48785f0875, type: 3}
+    value: 12
+    rank: 1
+  - cardTexture: {fileID: 2800000, guid: 59822edfd41a4ac47959e8c80182051e, type: 3}
+    value: 13
+    rank: 1
+  - cardTexture: {fileID: 2800000, guid: 972212ed78d799d4ba490e491b494d7f, type: 3}
+    value: 14
+    rank: 1
+  <suit>k__BackingField: 0

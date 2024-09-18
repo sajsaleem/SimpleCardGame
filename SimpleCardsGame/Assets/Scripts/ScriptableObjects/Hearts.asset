@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55df19f696329944699614f1c4a6440e, type: 3}
+  m_Name: Hearts
+  m_EditorClassIdentifier: 
+  <data>k__BackingField:
+  - cardTexture: {fileID: 2800000, guid: e3fc3474ff45fde47b954a72810d8c7d, type: 3}
+    value: 2
+    rank: 3
+    _playerIndex: -1
+  - cardTexture: {fileID: 2800000, guid: df7079865e4e0894d926ec10a7e38f88, type: 3}
+    value: 3
+    rank: 3
+    _playerIndex: -1
+  - cardTexture: {fileID: 2800000, guid: 0647151d4a4d6c148a81073ee42cb9ba, type: 3}
+    value: 4
+    rank: 3
+    _playerIndex: -1
+  - cardTexture: {fileID: 2800000, guid: 417878f413f025c468ae4fb6eac81835, type: 3}
+    value: 5
+    rank: 3
+    _playerIndex: -1
+  - cardTexture: {fileID: 2800000, guid: 96bff63fc46045f4d842174fd6acaac3, type: 3}
+    value: 6
+    rank: 3
+    _playerIndex: -1
+  - cardTexture: {fileID: 2800000, guid: 943dbe816322c2f4f87b3f944868c966, type: 3}
+    value: 7
+    rank: 3
+    _playerIndex: -1
+  - cardTexture: {fileID: 2800000, guid: 089d38fd8a329fd4aa66a2e3fb38cdbd, type: 3}
+    value: 8
+    rank: 3
+    _playerIndex: -1
+  - cardTexture: {fileID: 2800000, guid: 0f74ab20f9a01e741b9bc3b21047c25a, type: 3}
+    value: 9
+    rank: 3
+    _playerIndex: -1
+  - cardTexture: {fileID: 2800000, guid: 89d2f8bbdac112346a5f858395379aaa, type: 3}
+    value: 10
+    rank: 3
+    _playerIndex: -1
+  - cardTexture: {fileID: 2800000, guid: 1cc97f64ef47fd14497144286490b5b6, type: 3}
+    value: 11
+    rank: 3
+    _playerIndex: -1
+  - cardTexture: {fileID: 2800000, guid: 2ba4342f2168fb04fbf1314f1b5a81f4, type: 3}
+    value: 12
+    rank: 3
+    _playerIndex: -1
+  - cardTexture: {fileID: 2800000, guid: 092e2bd7c33656846873e0931fd25ea7, type: 3}
+    value: 13
+    rank: 3
+    _playerIndex: -1
+  - cardTexture: {fileID: 2800000, guid: bd14b94dd4e87964d8b151d360340465, type: 3}
+    value: 14
+    rank: 3
+    _playerIndex: -1
+  <suit>k__BackingField: 2
